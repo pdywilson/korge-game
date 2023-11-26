@@ -1,8 +1,8 @@
 # A simple Korge game
 
 This project is a minimal example of a korge game. It is written in kotlin and deployed to javascript.
-It can help as a starting point to get started with korge development. Feel free to copy and adjust it.
-Check it out here: https://pdywilson.github.io/game/ 
+It can help as a starting point to get started with [korge game development](https://korge.org/). Feel free to copy and adjust it.
+Check it out here: https://pdywilson.github.io/game/
 
 ## Build & Run
 
